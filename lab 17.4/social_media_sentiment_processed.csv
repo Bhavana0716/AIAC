@@ -1,0 +1,11 @@
+post_id,text,sentiment,processed_text
+1,I love this new phone 😍! The camera quality is amazing! https://techsite.com,positive,love new phone camera quality amazing
+2,Worst customer service ever!! 😡 #frustrated,negative,worst customer service ever frustrated
+3,"Just got my order delivered... it's okay, not great, not terrible.",neutral,got order delivered okay great terrible
+4,Check out my new blog post 👉 www.myblog.com/travel,neutral,check new blog post
+5,I'm so happy with the results! Totally worth it!!,positive,im happy result totally worth
+6,This update ruined the app 😤 now it crashes every time!!,negative,update ruined app crash every time
+7,Had a wonderful weekend with friends ❤️,positive,wonderful weekend friend
+8,I don't know how to feel about this 🤔,neutral,dont know feel
+9,@brand your service is pathetic 😠 will never buy again!,negative,brand service pathetic never buy
+10,Absolutely love the new design and performance!,positive,absolutely love new design performance

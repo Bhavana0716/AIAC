@@ -1,0 +1,6 @@
+employee_id,name,salary,department,job_role,joining_date
+1001,John Doe,75000,IT,Software Engineer,2022-01-15
+1002,Jane Smith,85000,HR,HR Manager,2021-11-30
+1003,Mike Johnson,65000,Finance,Accountant,2022-03-22
+1004,Sarah Williams,95000,IT,Senior Developer,2020-08-15
+1005,Robert Brown,70000,Marketing,Marketing Specialist,2022-06-01

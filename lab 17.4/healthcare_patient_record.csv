@@ -1,0 +1,11 @@
+name,age,gender,height_m,weight_kg,blood_pressure,heart_rate,diagnosis
+John Doe,45.0,Male,1.75,80.0,120.0,72.0,Hypertension
+Jane Smith,38.0,Female,1.6,65.0,126.625,80.0,Healthy
+Robert Brown,50.0,Male,1.7,90.0,140.0,78.75,Diabetes
+Emily Davis,29.0,Female,1.65,55.0,110.0,75.0,Healthy
+Michael Johnson,60.0,Male,1.8,95.0,150.0,88.0,Hypertension
+Linda Wilson,43.888888888888886,Female,1.58,62.0,115.0,70.0,Healthy
+David Lee,52.0,Male,1.72,72.22222222222223,135.0,85.0,Heart Disease
+Sarah Kim,33.0,Female,1.6788888888888889,58.0,118.0,78.0,Healthy
+James White,47.0,Male,1.69,85.0,126.625,82.0,Diabetes
+Olivia Green,41.0,Female,1.62,60.0,125.0,78.75,Healthy
